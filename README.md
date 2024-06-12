@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# Command
+1. install nodejs
+2. install npm
+3. npx create-next-app@latest panggo_ui
+4. cd panggo_ui
+5. npm run dev
+6. npm i bootstrap@5.3.3
+7. create Dockerfile
+8. docker build -t panggo_ui .
+9. docker run --network host -d panggo_ui
+
+# Architecture
+1. Operational Excellence
+2. Security
+3. Reliability
+4. Performance Efficiency
+5. Cost Optimization
+6. Sustainability
